@@ -18,14 +18,14 @@
 
 5. Herramientas de Google 
 
-| Aplicaciones | Visto |
-| ------------ | :----:|
-| Google Docs |✔️|
-| Google Slides |✔️|
-| Google Sheets |✔️|
-| Google Calendar | 📆 |
-| Google Meet |💻|
-| ... | ... |
+     | Aplicaciones | Visto |
+     | ------------ | :----:|
+     | Google Docs |✔️|
+     | Google Slides |✔️|
+     | Google Sheets |✔️|
+     | Google Calendar | 📆 |
+     | Google Meet |💻|
+     | ... | ... |
 
 6. ¿Qué es ```HTML``` ?
 
