@@ -19,6 +19,6 @@
 5. Herramientas de Google
 
 | Aplicaciones | Visto |
-| -------------| :---.:|
+| ------------ | :----:|
 | Google Docs | |
 | Google Slides | |
