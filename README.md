@@ -51,3 +51,6 @@
 elementos HTML deberían ser mostrados.**
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+
+![SoporteActividad-Documentar con Markdown](https://user-images.githubusercontent.com/113420749/191227544-1419bc4d-bea0-4c62-8dd4-cc48b4360aea.png)
