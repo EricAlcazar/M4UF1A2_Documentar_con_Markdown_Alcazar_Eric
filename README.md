@@ -12,9 +12,9 @@
 
       **Una aplicación web es aquello que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.**
 
-4.¿Qué es una herramienta ofimática?
+4. ¿Qué es una herramienta ofimática?
 
- **Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
+      **Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
 
 5. Herramientas de Google 
 
