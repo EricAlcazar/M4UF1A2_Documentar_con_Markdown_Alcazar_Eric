@@ -16,7 +16,7 @@
 
 **Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
 
-5. Herramientas de Google
+5. Herramientas de Google 
 
 | Aplicaciones | Visto |
 | ------------ | :----:|
