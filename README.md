@@ -14,15 +14,15 @@
 
 4.¿Qué es una herramienta ofimática?
 
-**Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...*
+**Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
 
 5. Herramientas de Google
 
 | Aplicaciones | Visto |
 | ------------ | :----:|
-| Google Docs | |
-| Google Slides | |
-| Google Sheets | |
-| Google Calendar | |
-| Google Meet | |
+| Google Docs |✔️|
+| Google Slides |✔️|
+| Google Sheets |✔️|
+| Google Calendar | 📆 |
+| Google Meet |💻|
 | ... | ... |
