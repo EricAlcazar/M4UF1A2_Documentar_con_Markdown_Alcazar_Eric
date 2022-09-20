@@ -52,5 +52,7 @@ elementos HTML deberían ser mostrados.**
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
+<img width="341" alt="Captura de pantalla 2022-09-20 115710" src="https://user-images.githubusercontent.com/113420749/191228481-317dd61e-92eb-4808-968f-653efe7b4fcd.png">
+
 
 ![SoporteActividad-Documentar con Markdown](https://user-images.githubusercontent.com/113420749/191227544-1419bc4d-bea0-4c62-8dd4-cc48b4360aea.png)
