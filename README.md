@@ -14,7 +14,7 @@
 
 4.¿Qué es una herramienta ofimática?
 
-      **Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
+**Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación...**
 
 5. Herramientas de Google 
 
@@ -29,7 +29,7 @@
 
 6. ¿Qué es ```HTML``` ?
 
-**Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.**
+          **Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.**
 
 ```html
 <!DOCTYPE html>
